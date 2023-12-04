@@ -1,0 +1,90 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/4XfB4jlhfMY",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Dm Chest Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/WXUVy5gubKw",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+    "4": {
+      "title" : "Incline chest press smith machine",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/8OUin1qpcuo",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "5": {
+      "title" : "Decline chest fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/MOn8fYIv7bk",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "Dm Chest fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/4qFkgxB4r-4",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Push ups",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/r4QPLgJHhFQ",
+      "reps": "20-20-15",
+      "sets": "3"
+    },
+    "8": {
+      "title" : "Close Grip Seated Biceps Curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/t_FEJGcVrDY",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "9": {
+      "title" : "Hammar",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/qGdkF18f0fU",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "10": {
+      "title" : "Overhead cable curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/FdaYfk005AE",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "11": {
+      "title" : "Wrist curl",
+      "muscle": "forearm",
+      "duration": 0,
+      "link": "https://youtu.be/V67aBYatQok",
+      "reps": "20-20-20",
+      "sets": "3"
+    }
+}

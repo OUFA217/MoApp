@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696266026073",
+    "project_id": "moapp-d8423",
+    "storage_bucket": "moapp-d8423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696266026073:android:147ec5033d78348768d548",
+        "android_client_info": {
+          "package_name": "com.organization.mo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS28-EwaWJNfchozrnc4WLVHhqwTK0Lo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

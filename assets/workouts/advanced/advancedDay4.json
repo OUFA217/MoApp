@@ -1,0 +1,91 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Incline Push ups Warm up",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/G2uwPy79Spc",
+      "reps": "20",
+      "sets": "1"
+    },
+    "4": {
+      "title" : "Incline Dm press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/_XSCKiXXBn8",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "5": {
+      "title" : "Chest fly machine",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/xrmu63KtF1Q",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+    "6": {
+      "title" : "Decline chest Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/UXiYGH7yZ1c",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Front Shoulder press single arm",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/s081lSz77iw",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "8": {
+        "title" : "Rear delt fly machine",
+        "muscle": "Shoulder",
+        "duration": 0,
+        "link": "https://youtu.be/pfY-d1CU-Ec",
+        "reps": "15-12-10",
+        "sets": "3"
+      },
+
+      "9": {
+        "title" : "Shrugs",
+        "muscle": "Shoulder",
+        "duration": 0,
+        "link": "https://youtu.be/QFVr8CGlF3c",
+        "reps": "15-12-10",
+        "sets": "3"
+      },
+    "10": {
+      "title" : "Close grip bench",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/UaVK0jRBVTY",
+      "reps": "12-12-10-8",
+      "sets": "4"
+    },
+    "11": {
+      "title" : "Rope push down",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/Pp370qisHSc",
+      "reps": "12-12-10-8",
+      "sets": "3"
+    }
+}

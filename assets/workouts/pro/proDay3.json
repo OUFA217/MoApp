@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration":6,
+      "link": "https://youtu.be/jXbdv6Saq1Y",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Machine chest fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/xrmu63KtF1Q",
+      "reps": "15",
+      "sets": "1"
+    },
+    "4": {
+        "title" : "Bench Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/bhWK88-FDqU",
+      "reps": "15-12-10-8-6",
+      "sets": "5"
+    },
+    "5": {
+        "title" : "Incline smith bar press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/8OUin1qpcuo",
+      "reps": "10-10-8-6",
+      "sets": "4"
+    },
+    "6": {
+        "title" : "Incline cable fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/h-J6wA4zxJI",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Decline cable fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/MOn8fYIv7bk",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "8": {
+        "title" : "Dips",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/hEI5QEuJj2A",
+      "reps": "15-12-12",
+      "sets": "3"
+    },
+    "9": {
+        "title" : "Pull over",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/E3oKnwJqoJk",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "10": {
+        "title" : "walking speed 5.5 km/h",
+      "muscle": "Cardio",
+      "duration": 45,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    }
+}

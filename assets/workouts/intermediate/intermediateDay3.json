@@ -1,0 +1,66 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Abs Crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/FsjZBj7wMXY",
+      "reps": "20-15-15",
+      "sets": "3"
+    },
+    "4": {
+      "title" : "Flutter kicks",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/YiFHIHUzUYs",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "5": {
+      "title" : "Standing core stabilizer",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/3jt1ZrVH4Gk",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "Russian Twist",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/s1kyI9MdtFU",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Plank",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/meQ_mllZ4vQ",
+      "reps": "30 * 2",
+      "sets": "2"
+    },
+    "8": {
+      "title" : "Stairmaster",
+      "muscle": "Cardio",
+      "duration": 20,
+      "link": "https://youtu.be/91wPNPz0FZ4",
+      "reps": "",
+      "sets": ""
+    }
+}

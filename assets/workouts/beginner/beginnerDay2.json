@@ -1,0 +1,88 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/4XfB4jlhfMY",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {"title" : "Lat pull down",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/Vm09VnYDLlE",
+      "reps": "12-12-10",
+      "sets": "3"
+    },
+    "4": {"title" : "Machine Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/-tu8CMjhoFw",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "5": {"title" : "Pull ups machine",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/W-QZZKjyKGA",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {"title" : "Cable row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/4QnAu8xpJlg",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "7": {"title" : "Back Extension",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/g67YmPfSStM",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "8": {"title" : "Cable biceps curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/X2z1c4gW_RM",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "9": {"title" : "Biceps",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/-u7Ozqegqcs",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "10": {"title" : "Reverse cable wrist curl",
+      "muscle": "Forearm",
+      "duration": 0,
+      "link": "https://youtu.be/tfOxSgDy6hc",
+      "reps": "20-15-15",
+      "sets": "3"
+    },
+    "11": {"title" : "cable wrist curl",
+      "muscle": "Forearm",
+      "duration": 0,
+      "link": "https://youtu.be/X2z1c4gW_RM",
+      "reps": "15-15-15",
+      "sets": "3"
+    },
+    "12": {"title" : "cardio",
+        "muscle": "Cardio",
+        "duration": 30,
+        "link": "https://youtu.be/n1jjb68YOy4",
+        "reps": "",
+        "sets": ""
+      }
+}

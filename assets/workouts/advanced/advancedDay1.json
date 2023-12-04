@@ -1,0 +1,94 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Press Machine Warm up",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/--ioQbt4gUA",
+      "reps": "15",
+      "sets": "1"
+    },
+    "4": {
+      "title" : "Bench Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/bhWK88-FDqU",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+    "5": {
+      "title" : "Incline DM Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/Pcg5eoEO_wk",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "6": {
+      "title" : "Decline chest fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/MOn8fYIv7bk",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "7": {
+      "title" : "Seated Lateral Raises",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/lZsBOrKAvro",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "8": {
+        "title" : "DM Front Raise",
+        "muscle": "Shoulder",
+        "duration": 0,
+        "link": "https://youtu.be/hji2mwGd97k",
+        "reps": "10-10-10",
+        "sets": "3"
+      },
+
+      "9": {
+        "title" : "Rear delt fly",
+        "muscle": "Shoulder",
+        "duration": 0,
+        "link": "https://youtu.be/M0YfBYNffd0",
+        "reps": "12-10-10",
+        "sets": "3"
+      },
+  
+    "10": {
+      "title" : "Cable push down",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/TiEhMabuKx0",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+
+
+    "11": {
+      "title" : "Dm overhead extension",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/IEWQ6RmvI6Y",
+      "reps": "10-10-10",
+      "sets": "3"
+    }
+}

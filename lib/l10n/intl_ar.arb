@@ -1,0 +1,123 @@
+{
+    "signOut":"تسجيل الخروج",
+    "goodMorning": "صباح الخير! 👋",
+    "kg": "كغم",
+    "name": "الاسم",
+    "profileName": "سامي أحمد",
+    "helpForPersonalPlan": "يساعدنا هذا في إنشاء خطة شخصية خاصة بك",
+    "canChangeLater": "يمكنك دائمًا تغيير هذا لاحقًا",
+    "next": "التالي",
+    "homeIcon": "assets/Icons/home.svg",
+    "home": "الصفحة الرئيسية",
+    "activityIcon": "assets/Icons/Activity.svg",
+    "activity": "النشاط",
+    "startNewActivity": "بدء نشاط جديد",
+    "dailyTask": "المهمة اليومية",
+    "day5":"اليوم 5",
+    "playDailyTaskIcon": "assets/Icons/PlayDailyTask.svg",
+    "programIcon": "assets/Icons/Discover.svg",
+    "program": "البرنامج",
+    "profileIcon": "assets/Icons/Settings.svg",
+    "setting": "الإعدادات",
+    "freeWorkPlanImage": "assets/Images/خطة تمرين مجانية.png",
+    "freeWorkPlanTitle": "خطة تمرين للمبتدئين",
+    "freeWorkPlanSubTitle": "04 تمارين للمبتدئين",
+    "pro1WorkPlanImage": "assets/Images/خطة تمرين احترافية 1.png",
+    "pro1WorkPlanTitle": "كسر الأهداف للجسم الكامل",
+    "pro1WorkPlanSubTitle": "07 تمارين للمتوسطين",
+    "pro2WorkPlanImage": "assets/Images/خطة تمرين احترافية 2.png",
+    "pro2WorkPlanTitle": "تقوية الجسم السفلي",
+    "pro2WorkPlanSubTitle": "05 تمارين للوحش الحقيقي",
+    "pro3WorkPlanImage": "assets/Images/خطة تمرين احترافية 3.png",
+    "pro3WorkPlanTitle": "أساسيات الحفر",
+    "pro3WorkPlanSubTitle": "06 تمارين للمبتدئين",
+    "endOn": "ينتهي في",
+    "timeOfJoined": "منذ 3 أشهر",
+    "profilePicture": "assets/Icons/noProfileIcon.svg",
+    "editProfile": "تعديل الملف الشخصي",
+    "privacyPolicy": "سياسة الخصوصية",
+    "settings": "الإعدادات",
+    "pro": "محترف",
+    "upgradeToPremium": "الترقية إلى النسخة المدفوعة",
+    "descriptionForPremium": "هذا الاشتراك قابل للتجديد تلقائيًا",
+    "titlePrivacyDescription": "لوريم إيبسوم دولور سيت آميت",
+    "subTitlePrivacyDescription":"الامان والخصوصيه",
+    "email": "البريد الإلكتروني",
+    "profileEmail": "Sami964@gmail.com",
+    "save": "حفظ",
+    "language": "اللغة",
+    "fifty":"٤٠",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "contactUs": "اتصل بنا",
+    "search": "البحث",
+    "searchIcon": "assets/Icons/Search.svg",
+    "helpDescription": "أخبرنا كيف يمكننا مساعدتك",
+    "titleDescription": "لوريم إيبسوم دولور سيت آميت، النص التجريبي",
+    "send": "إرسال",
+    "or": "أو",
+    "callIcon": "assets/Icons/call.svg",
+    "serviceNumber": "+201015881141",
+    "googleIcon": "assets/Icons/google.svg",
+    "serviceEmail": "awsabry2000@gmail.com",
+    "startYourTraining": "assets/Images/ابدأ تدريبك.png",
+    "startYourTraining2": "assets/Images/ابدأ تدريبك 2.png",
+    "workOutPlanAppBar": "assets/Images/شريط تمرين.png",
+    "workOutPlanBeginner": "خطة تمرين (مبتدئ)",
+    "fullBodyWorkOut": "تمرين الجسم الكامل",
+    "days30": "30 يومًا",
+    "workOutPlanBeginnerDescription": "فقدان الدهون في البطن، الحصول على عضلات البطن المشدودة في 4 أسابيع فقط مع هذه الخطة الفعالة. كما يساعد في تضخيم الذراع وتقوية الظهر والأكتاف. لا يلزم وجود معدات.",
+    "level": "المستوى",
+    "beginner": "مبتدئ",
+    "days": "أيام",
+    "number30": "30",
+    "number10WithBracket": "(10)",
+    "focusArea": "منطقة التركيز",
+    "chest": "الصدر",
+    "day1": "اليوم 1",
+    "day2": "اليوم 2",
+    "day3": "اليوم 3",
+    "day4": "اليوم 4",
+    "day6": "اليوم 6",
+    "day7": "اليوم 7",
+    "day567": "الأيام 7,6",
+    "dumble": "assets/Images/دمبل 1.png",
+    "minutes5": "5 دقائق",
+    "minutes10": "10 دقائق",
+    "startYourGoal": "ابدأ هدفك",
+    "off": "إيقاف",
+    "startNow": "ابدأ الآن",
+    "exerceisesImageBackground": "assets/Images/تمارين.png",
+    "bodyBuilding": "بناء الجسم",
+    "exercises": "التمارين",
+    "jumbJacksExercise": "assets/Images/تمرين القفز.png",
+    "jumbJacks": "تمرين القفز",
+    "seconds20": "00 : 20",
+    "myPlanForToday": "خطتي لليوم",
+    "oneSevenComplete": "1/7 مكتملة",
+    "precentatgeSign": "%",
+    "sixHrHours": "6 ساعات",
+    "plans": "الخطط",
+    "accontIsntSubscribed": "هذا الحساب لم يشترك بعد",
+    "validCredential": "يرجى إدخال بيانات الاعتماد الصحيحة",
+    "validPassword": "يرجى إدخال كلمة مرور صحيحة",
+    "workOutPlanBeginnerSubscribtionImage": "assets/Images/صورة اشتراك خطة تمرين المبتدئين.png",
+    "workOutPlan": "خطة التمرين",
+    "ak":"بلح",
+    "myProgram":"خطتى",
+    "monthly": "شهريًا",
+    "monthlyPriceSubscription": "$9.99/شهر",
+    "subscribeNow": "اشترك الآن",
+    "seeAll": "عرض الكل",
+    "exercise1": "تمرين 1",
+    "Subscribtion":"الاشتراك",
+    "fireCallories": "assets/Images/حرق السعرات الحرارية.svg",
+    "callories120": "120 سعرًا حراريًا",
+    "playArrowIcon": "assets/Icons/PlayArrowIcon.svg",
+    "warmUp": "تمرين الإحماء",
+    "exerciseOneOverTen": "التمارين 1/10",
+    "weight": "الوزن",
+    "wantSubscribtion":"هل تريد أن تشترك في هذه الخطه",
+    "cancel":"الغاء",
+    "ok":"نعم"
+  }

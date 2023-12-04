@@ -1,0 +1,82 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration":6,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "DM Shoulder press",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/YoYn25_JZlU",
+      "reps": "15-12-10-8-6",
+      "sets": "5"
+    },
+    "4": {
+        "title" : "Lateral Raise",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/sPfqZYm4sT0",
+      "reps": "15-12-10-10-8",
+      "sets": "5"
+    },
+    "5": {
+        "title" : "Bar front raise",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/09TBLyPPe_c",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "6": {
+        "title" : "Upright row",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/R-13xZlZzhc",
+      "reps": "10-10-8",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Dm seated bent over rear delt row",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/IfhUGwOe6us",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "8": {
+        "title" : "Dm rear delt fly",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/M0YfBYNffd0",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "9": {
+        "title" : "Shrugs",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/QFVr8CGlF3c",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "10": {
+        "title" : "walking speed 5.5 km/h",
+      "muscle": "Cardio",
+      "duration": 45,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    }
+}

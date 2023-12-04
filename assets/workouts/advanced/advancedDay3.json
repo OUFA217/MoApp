@@ -1,0 +1,107 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+
+    "3": {
+        "title" : "Squat",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Wy-2QvibcpQ",
+      "reps": "12-12-10-10",
+      "sets": "4"
+    },
+    "4": {
+        "title" : "Leg Press machine",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Rz-pD1_b5uU",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "5": {
+        "title" : "Leg Extension",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Gy2nibXyOt4",
+      "reps": "12-10-10-10",
+      "sets": "4"
+    },
+    "6": {
+        "title" : "Lying Leg Curl",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/6LyXzitv30E",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Hip Thrust",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/jH5yeWM2eBA",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "8": {
+        "title" : "Calf raise",
+      "muscle": "Calf",
+      "duration": 0,
+      "link": "https://youtu.be/yME3v357Wdk",
+      "reps": "20-15-12-10",
+      "sets": "4"
+    },
+    "9": {
+        "title" : "Abs Crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/FsjZBj7wMXY",
+      "reps": "20-15-15",
+      "sets": "3"
+    },
+    "10": {
+        "title" : "Leg raise",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/O86o1L8JX-M",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "11": {
+        "title" : "Russian Twist",
+      "muscle": "Abs",
+      "duration": 1,
+      "link": "https://youtu.be/B79HEIa2g_w",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "12": {
+        "title" : "Lying side Crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/HqsAeIGBeRM",
+      "reps": "20 * 2",
+      "sets": "2"
+    },
+    "13": {
+        "title" : "Walking speed 6 km/h",
+      "muscle": "Cardio",
+      "duration": 30,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    }
+}

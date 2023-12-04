@@ -1,0 +1,66 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/4XfB4jlhfMY",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Jack knife",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/8grmNgUAtnA",
+      "reps": "30sec * 3",
+      "sets": "3"
+    },
+    "4": {
+        "title" : "Hanging Leg raise",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/08SQcvbUdns",
+      "reps": "15-15-12",
+      "sets": "3"
+    },
+    "5": {
+        "title" : "Spider man plank",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/9UFPk33Ud9Q",
+      "reps": "30sec * 3",
+      "sets": "3"
+    },
+    "6": {
+        "title" : "Leg twist",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/iWDw0R7a0iE",
+      "reps": "30sec * 3",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Side crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/VawjeQmpUJQ",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "8": {
+        "title" : "Stairmaster machine",
+      "muscle": "Cardio",
+      "duration": 20,
+      "link": "https://youtu.be/91wPNPz0FZ4",
+      "reps": "",
+      "sets": ""
+    }
+}

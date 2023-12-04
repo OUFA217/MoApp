@@ -1,0 +1,66 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/G9_iZvSVWGA",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Abs Crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/h4bo6S02BWY",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "4": {
+      "title" : "Leg raise",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/O86o1L8JX-M",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "5": {
+      "title" : "Leg raises",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/YCK_ZpDSwS4",
+      "reps": "15-15-15",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "Russian Twist",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/meQ_mllZ4vQ",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Plank",
+        "muscle": "Abs",
+        "duration": 60,
+        "link": "https://youtu.be/meQ_mllZ4vQ",
+        "reps": "30 * 2",
+        "sets": "2"
+      },
+    "8": {
+      "title" : "cardio",
+        "muscle": "Cardio",
+        "duration": 20,
+        "link": "https://youtu.be/91wPNPz0FZ4",
+        "reps": "",
+        "sets": ""
+      }
+}

@@ -1,0 +1,75 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration":3,
+      "link": "https://youtu.be/GPwcjRKLCIo",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Dm Biceps curl with static hold",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/c0L7dPGQX8Y",
+      "reps": "10-8-6-6",
+      "sets": "4"
+    },
+    "4": {
+        "title" : "Cable Biceps curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/X2z1c4gW_RM",
+      "reps": "20-15-15-15",
+      "sets": "4"
+    },
+    "5": {
+        "title" : "hammer",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/qGdkF18f0fU",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+        "title" : "Dm wrist curl",
+      "muscle": "Forearm",
+      "duration": 0,
+      "link": "https://youtu.be/l-7d7Y7BqBE",
+      "reps": "20-20",
+      "sets": "2"
+    },
+
+    "7": {
+        "title" : "rope push down",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/Pp370qisHSc",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+    "8": {
+        "title" : "cable overhead extension",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/2HMxRfP4G6Q",
+      "reps": "12-10-8-8",
+      "sets": "4"
+    },
+    "9": {
+        "title" : "reverse cable push down",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/Yb8VhzX5O8s",
+      "reps": "10-10-10-8",
+      "sets": "4"
+    }
+}

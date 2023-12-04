@@ -1,0 +1,10 @@
+1- Calculate the percentages of activities
+2- Stripe method for payment
+3- database for all the videos
+4- signIn method --
+5- make sure to check the whole cycle of the app --Done
+6- validation on the other programs for the user who already subscribed
+7- localizations
+8- remove the start now button for the subscribed users in their plan --Done
+9- forget password
+10- resend code

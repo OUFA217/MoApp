@@ -1,0 +1,98 @@
+{
+    "1": {
+    "title" : "warmup",
+      "muscle": "High Knee Jump",
+      "duration": 1,
+      "link": "https://youtu.be/C74zlWEv2oI",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+    "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Goblet Squat",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Vr1WwY_Xkog",
+      "reps": "15-15-12-10",
+      "sets": "4"
+    },
+    "4": {
+        "title" : "DM deadlift",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/4sXOyKEIgh4",
+      "reps": "15-12-10-8",
+      "sets": "4"
+    },
+    "5": {
+        "title" : "Leg Extension",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Gy2nibXyOt4",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "6": {
+        "title" : "Cable Hip Abduction",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/u1QMjVWhTe0",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Calf raise",
+        "muscle": "Calf",
+        "duration": 0,
+        "link": "https://youtu.be/yo4oIKHOqrg",
+        "reps": "20-15-15-12",
+        "sets": "4"
+      },
+      "8": {
+        "title" : "Abs Rope Crunch",
+        "muscle": "Abs",
+        "duration": 0,
+        "link": "https://youtu.be/snJlZwAzIaE",
+        "reps": "15-15-15",
+        "sets": "3"
+      },
+      "9": {
+        "title" : "Leg raise",
+        "muscle": "Abs",
+        "duration": 1.5,
+        "link": "https://youtu.be/YCK_ZpDSwS4",
+        "reps": "30 * 3",
+        "sets": "3"
+      },
+      "10": {
+        "title" : "Cable core stabilizer",
+        "muscle": "Abs",
+        "duration": 0,
+        "link": "https://youtu.be/t_DvTk12Mds",
+        "reps": "15-15-12",
+        "sets": "3"
+      },
+      "11": {
+        "title" : "Sliding core workout",
+        "muscle": "Abs",
+        "duration": 50,
+        "link": "https://youtu.be/Hpe5hsgAN7g",
+        "reps": "2 * 25",
+        "sets": "2"
+      },
+    "12": {
+        "title" : "Walking speed 5 km/h",
+        "muscle": "Cardio",
+        "duration": 40,
+        "link": "https://youtu.be/j4A-aSdhJT8",
+        "reps": "",
+        "sets": ""
+      }
+}

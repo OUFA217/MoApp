@@ -1,0 +1,107 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/4XfB4jlhfMY",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Rope pull down",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/K1JTW9B8wF0",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "4": {
+        "title" : "Lat pulldown",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/9d79UdyDLGQ",
+      "reps": "12-12-10-10",
+      "sets": "4"
+    },
+    "5": {
+        "title" : "Dm Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/_vOp3E4XEO8",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+        "title" : "T bar Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/U7ixZ3HUJXI",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "7": {
+        "title" : "Machine Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/-tu8CMjhoFw",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "8": {
+        "title" : "Rope Face pull",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/l87XG73JDs4",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "9": {
+        "title" : "DM Dead lift",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/o9vI8-fVHws",
+      "reps": "12-12-10",
+      "sets": "3"
+    },
+
+    "10": {
+        "title" : "Incline Biceps curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/vO_glBZixuI",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "11": {
+        "title" : "Close grip Biceps curl",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/qFS9HULD-UQ",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "12": {
+        "title" : "Peacher hammer single arm",
+      "muscle": "Biceps",
+      "duration": 0,
+      "link": "https://youtu.be/WTA-PKf5AhQ",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "13": {
+        "title" : "reverse wrist curl",
+        "muscle": "Forearm",
+        "duration": 0,
+        "link": "https://youtu.be/FYDHMPZmDFU",
+        "reps": "25-20-20",
+        "sets": "3"
+      }
+}

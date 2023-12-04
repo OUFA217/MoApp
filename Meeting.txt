@@ -1,0 +1,5 @@
+- Weeks and days addeed in the same page -- Done
+- adding the exercises of the day in another table -- Pending
+
+
+- Progress, Number of Workouts, Number of weeks, Number of days

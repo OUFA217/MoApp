@@ -1,0 +1,90 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Chest Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/--ioQbt4gUA",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "4": {
+      "title" : "Machine chest fly",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/xrmu63KtF1Q",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "5": {
+      "title" : "Incline DM Press",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/_XSCKiXXBn8",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "Incline push ups",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/G2uwPy79Spc",
+      "reps": "15-15-12",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Chest Pull over",
+      "muscle": "Chest",
+      "duration": 0,
+      "link": "https://youtu.be/E3oKnwJqoJk",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "8": {
+      "title" : "Cable push down",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/TiEhMabuKx0",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "9": {
+      "title" : "Dips",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/xZoK0RTtQtA",
+      "reps": "15-12-12",
+      "sets": "3"
+    },
+    "10": {
+      "title" : "Band Kick back",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/3Bv6Csfh-Qg",
+      "reps": "12-12-10",
+      "sets": "3"
+    },
+    "11": {
+      "title" : "Elliptical",
+      "muscle": "Cardio",
+      "duration": 20,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    }
+}

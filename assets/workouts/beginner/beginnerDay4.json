@@ -1,0 +1,66 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/n1jjb68YOy4",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+      "title" : "Shoulder press machine Single arm",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/s081lSz77iw",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "4": {
+      "title" : "Lateral Raise",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/PWO-kHwQuQQ",
+      "reps": "15-15-15",
+      "sets": "3"
+    },
+    "5": {
+      "title" : "Upright row",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/Y288O5nZRbI",
+      "reps": "12-10-10",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "DM Front Raise",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/Hh4KSShd_DE",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "rear delt fly machine",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/pfY-d1CU-Ec",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "8": {
+      "title" : "Shrugs",
+      "muscle": "Shoulder",
+      "duration": 0,
+      "link": "https://youtu.be/sCTLLDEobkw",
+      "reps": "15-12-12-10",
+      "sets": "4"
+    }
+}

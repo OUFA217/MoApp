@@ -1,0 +1,91 @@
+{
+    "1": {
+      "title" : "warmup",
+      "muscle": "",
+      "duration": 5,
+      "link": "https://youtu.be/j4A-aSdhJT8",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+      "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+
+    "3": {
+      "title" : "Leg press machine",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Rz-pD1_b5uU",
+      "reps": "12-12-10",
+      "sets": "3"
+    },
+    "4": {
+      "title" : "Leg Curl",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/6LyXzitv30E",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "5": {
+      "title" : "Leg Extension",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/Gy2nibXyOt4",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+      "title" : "Hip Thrust",
+      "muscle": "Leg",
+      "duration": 0,
+      "link": "https://youtu.be/xg8anylcq5c",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "7": {
+      "title" : "Calf raise",
+      "muscle": "Calf",
+      "duration": 0,
+      "link": "https://youtu.be/yME3v357Wdk",
+      "reps": "15-12-12-10",
+      "sets": "4"
+    },
+    "8": {
+      "title" : "Abs Crunch",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/h4bo6S02BWY",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "9": {
+      "title" : "Leg raise",
+      "muscle": "Abs",
+      "duration": 0,
+      "link": "https://youtu.be/O86o1L8JX-M",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "10": {
+      "title" : "Heels Touches",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/RvGutEgCk5M",
+      "reps": "20 * 3",
+      "sets": "3"
+    },
+    "11": {
+      "title" : "Plank",
+      "muscle": "Abs",
+      "duration": 60,
+      "link": "https://youtu.be/meQ_mllZ4vQ",
+      "reps": "30 * 2",
+      "sets": "2"
+    }
+}

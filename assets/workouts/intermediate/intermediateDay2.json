@@ -1,0 +1,90 @@
+{
+    "1": {
+        "title" : "warmup",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/C74zlWEv2oI",
+      "reps": "",
+      "sets": ""
+    },
+    "2": {
+        "title" : "Stretch",
+      "muscle": "",
+      "duration": 1,
+      "link": "https://youtu.be/zh9jYIKL5r4",
+      "reps": "",
+      "sets": ""
+    },
+    "3": {
+        "title" : "Lying Pull back",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/ZhhjxqAZIN4",
+      "reps": "15-12-12",
+      "sets": "3"
+    },
+    "4": {
+        "title" : "Reverse Lat pulldown",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/eQYQLNuTCkY",
+      "reps": "12-12-10-10",
+      "sets": "4"
+    },
+    "5": {
+        "title" : "Dm Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/_vOp3E4XEO8",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "6": {
+        "title" : "Standing Rope Row",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/6L6M9vDZOuw",
+      "reps": "12-10-10-8",
+      "sets": "4"
+    },
+    "7": {
+        "title" : "Rope Face pull",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/pS4Re6gRWnM",
+      "reps": "15-12-10-10",
+      "sets": "4"
+    },
+    "8": {
+        "title" : "Back Extension",
+      "muscle": "Back",
+      "duration": 0,
+      "link": "https://youtu.be/SutJum4K2z8",
+      "reps": "15-12-10",
+      "sets": "3"
+    },
+    "9": {
+        "title" : "Z - bar skull crushers",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/JQLu_p1SamE",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "10": {
+        "title" : "Dm Kick Back",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/vrWw_h2I-o4",
+      "reps": "10-10-10",
+      "sets": "3"
+    },
+    "11": {
+        "title" : "Dips",
+      "muscle": "Triceps",
+      "duration": 0,
+      "link": "https://youtu.be/t10Mu9FkNHQ",
+      "reps": "15-15-12",
+      "sets": "3"
+    }
+}
